@@ -1,0 +1,90 @@
+The algorithim moved items 0 times for 1 items
+	The algorithim compared items 0 times when sorting 1 items
+	The agorithim moved items in the array 0 times
+The algorithim moved items 1 times for 2 items
+	The algorithim compared items 1 times when sorting 2 items
+	The agorithim moved items in the array 2 times
+The algorithim moved items 2 times for 3 items
+	The algorithim compared items 3 times when sorting 3 items
+	The agorithim moved items in the array 5 times
+The algorithim moved items 3 times for 4 items
+	The algorithim compared items 5 times when sorting 4 items
+	The agorithim moved items in the array 8 times
+The algorithim moved items 4 times for 5 items
+	The algorithim compared items 6 times when sorting 5 items
+	The agorithim moved items in the array 12 times
+The algorithim moved items 9 times for 10 items
+	The algorithim compared items 22 times when sorting 10 items
+	The agorithim moved items in the array 34 times
+The algorithim moved items 14 times for 15 items
+	The algorithim compared items 43 times when sorting 15 items
+	The agorithim moved items in the array 59 times
+The algorithim moved items 19 times for 20 items
+	The algorithim compared items 64 times when sorting 20 items
+	The agorithim moved items in the array 88 times
+The algorithim moved items 24 times for 25 items
+	The algorithim compared items 91 times when sorting 25 items
+	The agorithim moved items in the array 118 times
+The algorithim moved items 49 times for 50 items
+	The algorithim compared items 223 times when sorting 50 items
+	The agorithim moved items in the array 286 times
+The algorithim moved items 74 times for 75 items
+	The algorithim compared items 377 times when sorting 75 items
+	The agorithim moved items in the array 472 times
+The algorithim moved items 99 times for 100 items
+	The algorithim compared items 532 times when sorting 100 items
+	The agorithim moved items in the array 672 times
+The algorithim moved items 199 times for 200 items
+	The algorithim compared items 1288 times when sorting 200 items
+	The agorithim moved items in the array 1544 times
+The algorithim moved items 299 times for 300 items
+	The algorithim compared items 2108 times when sorting 300 items
+	The agorithim moved items in the array 2488 times
+The algorithim moved items 399 times for 400 items
+	The algorithim compared items 2977 times when sorting 400 items
+	The agorithim moved items in the array 3488 times
+The algorithim moved items 499 times for 500 items
+	The algorithim compared items 3832 times when sorting 500 items
+	The agorithim moved items in the array 4488 times
+The algorithim moved items 599 times for 600 items
+	The algorithim compared items 4771 times when sorting 600 items
+	The agorithim moved items in the array 5576 times
+The algorithim moved items 699 times for 700 items
+	The algorithim compared items 5735 times when sorting 700 items
+	The agorithim moved items in the array 6676 times
+The algorithim moved items 799 times for 800 items
+	The algorithim compared items 6713 times when sorting 800 items
+	The agorithim moved items in the array 7776 times
+The algorithim moved items 899 times for 900 items
+	The algorithim compared items 7686 times when sorting 900 items
+	The agorithim moved items in the array 8876 times
+The algorithim moved items 999 times for 1000 items
+	The algorithim compared items 8731 times when sorting 1000 items
+	The agorithim moved items in the array 9976 times
+The algorithim moved items 1999 times for 2000 items
+	The algorithim compared items 19369 times when sorting 2000 items
+	The agorithim moved items in the array 21952 times
+The algorithim moved items 2999 times for 3000 items
+	The algorithim compared items 30857 times when sorting 3000 items
+	The agorithim moved items in the array 34904 times
+The algorithim moved items 3999 times for 4000 items
+	The algorithim compared items 42855 times when sorting 4000 items
+	The agorithim moved items in the array 47904 times
+The algorithim moved items 4999 times for 5000 items
+	The algorithim compared items 55185 times when sorting 5000 items
+	The agorithim moved items in the array 61808 times
+The algorithim moved items 9999 times for 10000 items
+	The algorithim compared items 120370 times when sorting 10000 items
+	The agorithim moved items in the array 133616 times
+The algorithim moved items 49999 times for 50000 items
+	The algorithim compared items 718667 times when sorting 50000 items
+	The agorithim moved items in the array 784464 times
+The algorithim moved items 99999 times for 100000 items
+	The algorithim compared items 1536309 times when sorting 100000 items
+	The agorithim moved items in the array 1668928 times
+The algorithim moved items 499999 times for 500000 items
+	The algorithim compared items 7627340 times when sorting 500000 items
+	The agorithim moved items in the array 9475712 times
+The algorithim moved items 999999 times for 1000000 items
+	The algorithim compared items 15361121 times when sorting 1000000 items
+	The agorithim moved items in the array 19951424 times
